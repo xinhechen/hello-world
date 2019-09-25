@@ -7,12 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint **/*.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xinhechen/hello-world.git"
-  },
+  "repository": "git+https://github.com/xinhechen/hello-world.git",
   "keywords": [],
-  "author": "",
+  "author": "Xinhe Chen <xinhe.c@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xinhechen/hello-world/issues"
