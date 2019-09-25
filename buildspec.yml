@@ -5,7 +5,7 @@ phases:
    commands:
      - npm install
    runtime-versions:
-     - nodejs: 8  
+     nodejs: 8  
  build:
    commands:
      - npm run-script lint
